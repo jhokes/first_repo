@@ -1,0 +1,12 @@
+
+1. Explain what the terminal is in your own words.
+2. What is the major difference between Git and Github?
+3. Why do we use Github?
+
+
+1. The terminal is the navigation to the computers software to find & also edit files.
+
+2. Git is mainly for code revision where GitHub is repository for code.
+
+3. GitHub is used for collaborative projects.
+
